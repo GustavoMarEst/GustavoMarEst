@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there 👋
+
+Que tal! Soy Gustavo, egresado en la carrera de Ingenieria en Sistemas Computacionales en la Universidad Autónoma de Tamaulipas.
+
+Me encanta explorar las diferentes e infinitar posibilidades que la programacion ofrece. Durante mi carrera, he adquirido solidos conocimientos en las diversas areas de la ingenieria en sistemas, siempre estoy en constante aprendizaje, buscando desafios que me permitan seguir creciendo profresionalmente!
+
+Me gusta mucho programar en Python y en Java, crear aplicacion moviles para Android mediante Android Studio y de igual manera, crear sus respectivos diseños de la interfaz de usuario.
 
 <!--
 **GustavoMarEst/GustavoMarEst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
